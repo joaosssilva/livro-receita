@@ -2,5 +2,6 @@
 
 olá, bem vindo ao meu livro de receitas
 
-- xxxx
-- yyyy
+- Peixe Frito
+- Costela no Bafo
+- Costela Assada
